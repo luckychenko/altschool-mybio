@@ -1,5 +1,5 @@
 # altschool-mybio
-Altschool First Assignment 
+Altschool-V3 First Assignment 
 
 Write out the HTML for 2 pages linked together that is accessible, it should use the anchor tag to create a good global navigation.   
 Page 1: An about me page with details including your personal details, reasons for joining AltSchool, and what you plan to achieve with AltSchool.   
